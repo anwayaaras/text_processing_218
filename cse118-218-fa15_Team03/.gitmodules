@@ -1,0 +1,3 @@
+[submodule "notefy_rest_api"]
+	path = notefy_rest_api
+	url = https://github.com/bsoe003/notefy_rest_api

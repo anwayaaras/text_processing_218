@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Notefy</string>
+    <string name="say_smartcamera">Notefy</string>
+    <string name="glass_voice_prompt">Say Notefy to trigger the glassware</string>
+    <string name="stop">STOP</string>
+    <string name="preview">Take picture</string>
+    <string name="zoom">Zoom</string>
+    <string name="upload">Upload to GDrive</string>
+    <string name="delete">Delete from Glass</string>
+</resources>    
+    
